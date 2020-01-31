@@ -8,3 +8,5 @@ For now the data that has been extracted contain the statistics of all the five 
 For training purpose the SVM and KNN classifiers of sklearn library of python has been used.
 # Future Target
 To increase the size of the full dataset by preprocessing the extracted data for all the seasons and increase the accuracy.
+# Publication
+The paper has been published to IJSREM journal in the december 2019 edition.
